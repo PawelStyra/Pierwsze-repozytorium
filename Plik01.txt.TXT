@@ -3,3 +3,7 @@ Zmiana02 Zmiana02a
 Zmiana03 - Zmiana07c
 Zmiana04
 Zmiana05
+Zmiana08
+Zmiana09
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
