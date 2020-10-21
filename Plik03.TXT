@@ -1,4 +1,4 @@
-Zmiana07b Zmiana10a Zmiana 12
+Zmiana07b Zmiana10a
 naprawa błędów - hotFix-001
 oraz
 Dodano asystenta pomocy
